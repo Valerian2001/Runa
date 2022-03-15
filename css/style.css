@@ -1,0 +1,121 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #888;
+}
+
+a{
+	color: #888;
+	text-decoration: none;
+}
+
+h1,h2,h3,h4{
+	color: #303030;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	position: absolute;
+	background-color: transparent;
+	padding: 10px 0;
+	width: 100%;
+}
+header img{
+	width: 140px;
+}
+#hero{
+	text-align: center;
+	background-image: url("../img/bg-sliders.jpg");
+	background-size: cover;
+	background-position: top center;
+	color: #fff;
+}
+
+#hero h3{
+	font-size: 22px;
+	font-weight: 400;
+	color: #fff;
+}
+#hero h1{
+	font-size: 60px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.overlay{
+	padding: 100px;
+}
+
+.section{
+	padding: 60px 0;
+}
+
+#info h4{
+	color: #303030;
+	font-size: 20px;
+}
+#info p{
+	font-size: 17px;
+}
+
+
+.titulo{
+	font-size: 40px;
+	color: #303030;
+	font-weight: 400;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.subtitulo{
+	font-size: 22px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+
+#hero .titulo{
+	text-align: left;
+	margin-top: 60px;
+	font-size: 40px;
+	color: #FFFFFF;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+#hero p{
+	text-align: left;
+}
+
+#hero img{
+	width: 300px;
+}
+
+#product p,h2{
+	text-align: left;
+	
+}
+
+#product img{
+	width: 150px;
+}
+
+footer{
+	background-color:#323232;
+	color:#898989;
+	padding: 20px 0;
+	font-size: 14px;
+}
+footer li a{
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #171717;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #898989;
+	font-size: 16px;
+}
